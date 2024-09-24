@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+nav{
+    border:px;
+    margin:10px;
+    padding: px;
+}
+main{
+    margin: 10px;
+}
+:root {
+    --color1: #21243D;
+    --color2: #FFFFFF;
+    --color3: #FF6464;
+    --color4: #000000;
+    
+  }
+
+
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 18px;
+    
+
+
+
+}
+
+.item{
+    font-family: "Heebo", sans-serif;
+    text-decoration: none;
+    color: var(--color1);
+    font-size: 14pt;
+    
+
+
+}
+
+.containerfirst{
+    
+    margin-top:100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#imd{
+    border-radius: 100px;
+    border: solid ;
+    color:var(--color1) ;
+    
+}
+
+h1{
+    color: var(--color1);
+
+}
+
+p{
+    color: var(--color1);
+    font-family: "Heebo", sans-serif;
+}
+button{
+    background-color: var(--color3);
+    border: none;
+    width: 200px;
+    height: 35px;
+    color: var(--color2);
+    
+    
+}
+
+.conteiner_pricipa{
+    background-color: #EDF7FA;
+    width: 999px;
+    height: 400px;
+    margin-top: 80px;
+}
+
+
+.racute{
+    display: flex;
+    justify-content:space-evenly;
+    
+
+}
+.matriculin{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 25px;
+    
+}
+
+.reter{
+    background-color: var(--color2);
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    margin-left: -150px;
+}
+
+a{
+    text-decoration: none;
+    color: var(--color2);
+    font-family: "Heebo", sans-serif;
+    font-size: bold;
+
+}
+#jau{
+    color:var(--color1);
+}
+
+#mavi{color: #21243D;}
+#v_ot{color: #3BBCD7;
+
+}
